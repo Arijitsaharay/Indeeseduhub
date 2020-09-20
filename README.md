@@ -5,9 +5,11 @@ Download the zip folder. Extract the file and paste it on your server. Inside th
 
 There are two portals, one for Teacher and other for Student
 For Teacher:-
+
 Username-arijit  
 Password- arijit@123
 
 For Student:-
+
 Username-applicant
 Password- applicant@123
