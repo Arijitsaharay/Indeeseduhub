@@ -10,12 +10,16 @@ There are two portals, one for Teacher and other for Student
 
 1.Username-arijit  
   Password- arijit@123
+  
 2.Username-Praloy Dutta  
   Password- 12345
+  
 3.Username-tirtha2208  
   Password- tirthaindees
+  
 4.Username-Ritam  
   Password- ritam123
+  
 5.Username-soumya
   Password- soumya@123
   
