@@ -5,8 +5,8 @@ Download the zip folder. Extract the file and paste it on your server. Inside th
 
 There are two portals, one for Teacher and other for Student
 
-*For Teacher:-*
-(There are five teachers)
+**For Teacher:-
+(There are five teachers)**
 
 1.Username-arijit  
   Password- arijit@123
@@ -19,7 +19,7 @@ There are two portals, one for Teacher and other for Student
 5.Username-soumya
   Password- soumya@123
   
-For Student:-
+**For Student:-**
 
 Username-applicant
 Password- applicant@123
