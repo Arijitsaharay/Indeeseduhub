@@ -3,7 +3,7 @@ include('connection.php');
 class db{
 	public $conn;
 	function __construct(){
-		$this->conn=mysqli_connect("127.0.0.1:49691","azure","6#vWHD_$");
+		$this->conn=mysqli_connect("localhost","root","");
 		if(mysqli_connect_errno()){
 			echo "failed to connect";
 			mysqli_connect_error();
