@@ -1,8 +1,8 @@
 <?php
 
-	$hostname = "127.0.0.1:49691";
-	$username = "azure";
-	$password = "6#vWHD_$";
+	$hostname = "localhost";
+	$username = "root";
+	$password = "";
 	$databasename = "localdb";
 	$conn = new mysqli($hostname,$username,$password,$databasename);
     
